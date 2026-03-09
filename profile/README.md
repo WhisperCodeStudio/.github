@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
+
 # 🌙 WhisperCodeStudio
 
 WhisperCodeStudio is an indie software studio creating **thoughtful digital tools with soul**.
