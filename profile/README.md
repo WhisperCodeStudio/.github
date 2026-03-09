@@ -1,7 +1,7 @@
+![WhisperCode Banner](./banner.jpg)
 <p align="center">
-  <img src="banner.jpg" width="100%" />
+  <img src="./banner.jpg" width="100%" />
 </p>
-
 
 # 🌙 WhisperCodeStudio
 
