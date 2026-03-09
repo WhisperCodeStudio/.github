@@ -1,6 +1,5 @@
-![WhisperCode Banner](profile/banner.jpg)
 <p align="center">
-  <img src="profile/banner.jpg" width="100%" />
+  <img src="https://i.ibb.co/S7VKPZpV/banner.jpg" width="100%" alt="WhisperCode Banner">
 </p>
 
 # 🌙 WhisperCodeStudio
